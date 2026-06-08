@@ -96,3 +96,7 @@ weights/
 *.flac
 *.psd
 *.ai
+
+
+backend/.env
+backend/.env.example
